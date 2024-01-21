@@ -1,4 +1,4 @@
-# Prroject 0. Guess a number
+# Project 0. Guess a number
 
 ## Contens
 [1. Description of project](===)
@@ -19,3 +19,5 @@ The results are evaluated based on the average count of attempts of 1000 repetit
 
 **What do we practise?**
 Learning to write a good code in Python.
+
+## Short information of dates
