@@ -21,3 +21,4 @@ The results are evaluated based on the average count of attempts of 1000 repetit
 Learning to write a good code in Python.
 
 ## Short information of dates
+___---___
